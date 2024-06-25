@@ -1,0 +1,11 @@
+V1:
+curl http://localhost:8080/api/v1/users
+
+V2:
+curl http://localhost:8080/api/v2/users
+curl -X POST -H "Content-Type: application/json" -d '{"name":"Volkan Istek"}' http://localhost:8080/api/v2/users
+curl -X DELETE http://localhost:8080/api/users/v2/Volkan%20Istek
+
+V3:
+
+
