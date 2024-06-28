@@ -1,4 +1,4 @@
-package com.javaci.rest.model;
+package net.javaci.rest.model;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.javaci.rest.controller;
+package net.javaci.rest.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
